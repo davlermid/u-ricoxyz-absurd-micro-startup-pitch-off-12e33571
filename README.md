@@ -1,8 +1,8 @@
 # Absurd Micro-Startup Pitch-Off
 
-[![bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/competitions/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![repo](https://img.shields.io/badge/repo-davlermid-green)](https://github.com/davlermid/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
-[![make.fun](https://img.shields.io/badge/make.fun-competition-orange)](https://make.fun/competitions/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![make.fun · u-ricoxyz-absurd-micro-startup-pitch-off-12e33571](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![rank](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/davlermid/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/rank.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
+[![reward](https://make.fun/badge/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/davlermid/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571/reward.svg)](https://make.fun/bounty/u-ricoxyz-absurd-micro-startup-pitch-off-12e33571?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-absurd-micro-startup-pitch-off-12e33571)
 
 One sentence, under 200 characters, pitching an absurdly specific
 micro-startup for a lazy AI agent.
